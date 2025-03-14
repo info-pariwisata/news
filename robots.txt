@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /index.html
+
+Sitemap: https://info-pariwisata.github.io/news/
